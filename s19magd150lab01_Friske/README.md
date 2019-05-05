@@ -1,6 +1,6 @@
 # Lab 1
 ### Static Composition in Black and White
-#### 100/100 Points
+#### 02/04/2019 : 100/100 Points
 
 ### Requirements
 1. Adhere to the theme: Buildings
