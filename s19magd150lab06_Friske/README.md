@@ -1,6 +1,6 @@
 # Lab 6
 ### Organization
-#### 03/17/2019 : 100/100 Points
+#### 03/17/2019 : 95/100 Points
 
 1. Adhere to the theme: Retro Games
 2. Define and call three of your own functions
