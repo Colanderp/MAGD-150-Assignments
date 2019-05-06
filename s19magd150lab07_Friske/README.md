@@ -9,4 +9,4 @@
 * Translate
 * Rotate
 * Scale
-5. Create and use a one- or two-dimensional array. (10 pts.)
+5. Create and use a one- or two-dimensional array
