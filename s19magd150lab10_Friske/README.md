@@ -1,5 +1,5 @@
 # Lab 10
-### Static Composition in Black and White
+### 3D
 #### 04/24/2019 : 100/100 Points
 
 1. Create a 2D texture using Processing's save feature
