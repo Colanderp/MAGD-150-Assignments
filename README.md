@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Kahlen Friske's MAGD-150 Projects
 
-You can use the [editor on GitHub](https://github.com/FriskeKC31/MAGD-150-Assignments/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+This holds all my projects for my MAGD-150. Included are the date done, the requirements, and the score I got.
+This will be used to showcase my progress over the semester and how I learned the Processing langugue.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Projects
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FriskeKC31/MAGD-150-Assignments/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. [Lab 1 - Static Composition in Black and White](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab01_Friske)
+2. [Lab 2 - Color Composition](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab02_Friske)
+3. [Lab 3 - Math](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab03_Friske)
+4. [Lab 4 - Dynamism](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab04_Friske)
+5. [Lab 5 - Intersections](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab05_Friske)
+6. [Lab 6 - Organization](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab06_Friske)
+7. [Lab 7 - Transformation](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab07_Friske)
+8. [Lab 8 - Type](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab08_Friske)
+9. [Lab 9 - Image/Sound/Video](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab09_Friske)
+10. [Lab 10 - 3D](https://github.com/FriskeKC31/MAGD-150-Assignments/tree/master/s19magd150lab10_Friske)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with any of my projects? Have any questions with processing in general? 
+Email me [here](KFriskeStudios@gmail.com)!
